@@ -1,0 +1,8 @@
+fsharp/obj/
+fsharp/bin/
+c/*
+!c/nan.c
+cpp/*
+!cpp/nan.cpp
+*.exe
+*.class
